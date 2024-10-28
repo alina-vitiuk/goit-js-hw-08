@@ -11,7 +11,7 @@ img {
   margin-left: 156px;
   display: flex;
   flex-wrap: wrap;
-  gap: 28px;
+  gap: 12px;
 }
 
 /* .gallery-item {
